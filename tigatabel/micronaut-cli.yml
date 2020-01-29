@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: cindy.relasi
+---
+testFramework: junit
+sourceLanguage: java
